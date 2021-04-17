@@ -16,9 +16,12 @@ int main()
 {
     int number,result;
     clrscr();
+
         printf("Input number : ");
+
      scanf("%d",&number);
      result=sum_of_digit(number);
+
         printf("sum of digits : ");
         printf("%d ",result);
     
