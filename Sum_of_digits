@@ -1,3 +1,15 @@
+// Write a program in c language to find sum of digits of a number using recursion 
+
+// Your input and output look similar to this
+/* INPUT
+   _______
+   Input number : 1234
+   OUTPUT
+   _______
+   Sum of digits : 10    
+*/
+//_____________________________________________________________________
+
 #include<stdio.h>
 #include<conio.h>
 
